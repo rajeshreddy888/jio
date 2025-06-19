@@ -1,1 +1,1 @@
-echo "mohan.txt" >> .gitignore
+lanja puku:
